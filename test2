@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Pauline Fanchon | Profile</title>
+    <meta name="description" content="This is the profile of Pauline Fanchon, a student at ESSEC Business School.">
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <div class="sidebar">
+  <ul>
+    <li><a href="#about">About me</a></li> <br/>
+    <li><a href="#skills">Languages & Other Skills</a></li>  <br/>
+    <li><a href="#Sports">Sports</a></li>  <br/>
+  </ul>
+    </div>
+    <div class="container">
+     <div id="Header" class="card-white">
+         <h1>Pauline Fanchon</h1>
+        <img src="images/profile-picture.png" class="img-circle" width="100px" alt="Pauline Fanchon" id="ProfilePic">
+        <p>
+          Hello! I'm Pauline 🙃 I am a 17 year old born in Paris, but I also had the chance to live a few years in Princeton in the United States. I am currently studying at <strong>ESSEC</strong> 📚 I'm also really interested in communication and traveling 🌍 But first and foremost I love my friends and family. I have done a whole variety of <strong>sports</strong> since I was very young, such as swimming, tennis, track & field, etc. But the one I am most passionate about is definetly <strong>horseback riding</strong>, which I have been doing since I was only 6 years old 🐎
+        </p>
+          <a href="https://www.youtube.com/watch?v=1nhB6nA_P3Y&t=18s" class="btn-black" target="_blank">Enjoy the Trip</a>
+      </div>
+        <div class="card-white">
+          <h2>Languages & Other Skills</h2>
+        <p>
+           Languages <i>(English/French/Spanish/Italian)</i>
+            <div class="English">
+            <span style="width: 75%"></span>
+            </div>
+          <br/>
+          
+            Microsoft Office Suite <i>(Excel, Word, PowerPoint...)</i>
+            <div class="Microsoft Office Suite">
+            <span style="width: 95%"></span>
+            </div>
+            <br/> 
+
+           Google Analytics <i>(Sheets, Docs, Slides...)</i>
+            <div class="Google Analytics">
+            <span style="width: 95%"></span>
+            </div>
+            <br/> 
+
+            iWork <i>(Numbers, Pages, iMovie...)</i>
+            <div class="iWork">
+            <span style="width: 95%"></span>
+            </div>
+            <br/> 
+
+          Adobe Photoshop
+            <div class="Adobe Photoshop">
+            <span style="width: 65%"></span>
+            </div>
+            <br/>
+
+            Adobe Premiere Pro
+            <div class="Adobe Premiere Pro">
+            <span style="width: 65%"></span>
+            </div>
+            <br/>
+ </p>
+      </div>
+        <div class="card-white">
+        <h3>Sports</h3>
+        <p>
+           Horseback Riding
+            <div class="Horsebackriding">
+            <span style="width: 75%"></span>
+            </div>
+          <br/>
+          
+            Track & Field
+            <div class="Track & Field">
+            <span style="width: 95%"></span>
+            </div>
+            <br/> 
+
+           Cheerleading
+            <div class="Cheerleading">
+            <span style="width: 95%"></span>
+            </div>
+            <br/> 
+
+            Swimming
+            <div class="Swimming">
+            <span style="width: 95%"></span>
+            </div>
+            <br/> 
+
+          Tennis
+            <div class="Tennis">
+            <span style="width: 65%"></span>
+            </div>
+            <br/>
+
+            Ski
+            <div class="Ski">
+            <span style="width: 65%"></span>
+            </div>
+            <br/>
+        <div class="card-white">
+          <h2>Here are my social medias. You should follow me :) </h2>
+        <ul class="list-inline">
+          <li>
+            <a href="https://www.linkedin.com/in/pauline-fanchon-1b44191b6/" target="_blank">
+              <img src="images/linkedin.jpg" class="img-circle" width="32px" height="32px" alt="Linkedin Pauline Fanchon">
+            </a>
+          </li>
+          <li>
+            <a href="https://www.facebook.com/paulinefanchon" target="_blank">
+              <img src="images/facebook.jpg" class="img-circle" width="32px" height="32px" alt="Facebook Pauline Fanchon">
+            </a>
+          </li>
+          <li>
+            <a href="https://instagram.com/paulinefanchon" target="_blank">
+              <img src="images/instagram.jpg" class="img-circle" width="32px" height="32px" alt="Instagram Pauline Fanchon">
+            </a>
+          </li>
+        </ul>
+        </div> 
+    </div>
+      
+        
+  </body>
+</html>
